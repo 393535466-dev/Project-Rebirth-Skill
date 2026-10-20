@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Rebirth · 项目启动规范"
+  short_description: "建立项目目标与验收条件，约束事实核验、浏览器选择和执行交付方式"
+  default_prompt: "使用 $project-rebirth 启动这个项目，检查现有材料，明确交付和验收条件，并按项目启动规范推进。"
